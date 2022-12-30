@@ -97,19 +97,18 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Download the repo
-2. Clone the repo
+1. Click the green button
+![image](https://user-images.githubusercontent.com/84189062/210023644-49f6ee47-b8aa-479d-b192-c9985ef913cd.png)
+   
+2. Download ZIP
+   ![image](https://user-images.githubusercontent.com/84189062/210023664-4d06ef4a-71a7-444d-9778-bf21c8ed30ae.png)
+   
+3. Extract the file
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   Make sure all of the files are in the same folder!!!
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+4. Run the file named 'index'
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
