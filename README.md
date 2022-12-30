@@ -144,7 +144,7 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Duong Hoang - [LinkedIn](https://www.linkedin.com/in/hmd1311/) - hoangmanhduong01@gmail.com
+Duong Hoang - [LinkedIn](https://www.linkedin.com/in/hmd1311/)
 
 Project Link: [https://github.com/skald1311/Guess-My-Number](https://github.com/skald1311/Guess-My-Number)
 
