@@ -139,7 +139,7 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License.
-Credit to Jonas Schmedtmann for HTML and CSS file.
+<p>Credit to Jonas Schmedtmann for HTML and CSS file.<p/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
